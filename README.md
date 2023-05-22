@@ -1,2 +1,2 @@
-# wpu-resolusi
-Belajar GItub
+# lern-github
+Belajar GItHub
