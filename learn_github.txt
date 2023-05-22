@@ -7,4 +7,3 @@ Learn Github
 - create file
 - editing file
 - editing file
-- editing file
