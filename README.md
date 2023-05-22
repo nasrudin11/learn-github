@@ -1,2 +1,2 @@
-# lern-github
+# learn-github
 Belajar GItHub
